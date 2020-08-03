@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 枫凌霜晚
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://blog.niezhihao.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,12 +98,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: volantis
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/nzhyzxl2019/nzhyzxl2019.github.io
+  repo: git@github.com:nzhyzxl2019/nzhyzxl2019.github.io.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
